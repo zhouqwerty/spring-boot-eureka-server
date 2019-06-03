@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.qwerty.spring.eureka</groupId>
-	<artifactId>server</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>server</name>
+	<name>eureka-server</name>
 	<description>eureka server</description>
 
 	<properties>
