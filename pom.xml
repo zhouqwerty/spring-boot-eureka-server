@@ -16,6 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<eureka.version>1.4.4.RELEASE</eureka.version>
 	</properties>
 
 	<dependencies>
@@ -26,7 +27,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka-server</artifactId>
-			<version>1.4.4.RELEASE</version>
+			<version>${eureka.version}</version>
 		</dependency>
 
 		<dependency>
